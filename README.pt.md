@@ -27,7 +27,7 @@ Você pode executar os notebooks "Client-Ready" localmente.
 
 1.  **Clone este repositório:**
     ```bash
-    git clone [https://github.com/Lucas-Ker/lucas-ker-portfolio.git](https://github.com/Lucas-Ker/lucas-ker-portfolio.git)
+    git clone https://github.com/Lucas-Ker/lucas-ker-portfolio.git
     cd lucas-ker-portfolio
     ```
 
@@ -44,7 +44,7 @@ Você pode executar os notebooks "Client-Ready" localmente.
 
 4.  **Baixe os Dados Processados:**
     * O notebook do Olist depende de arquivos `.parquet` processados.
-    * **[Clique aqui para baixar os dados (3 arquivos, ~XX MB) do Google Drive]** `(https://drive.google.com/drive/folders/1UexfcZOujLVO8-RzY0O__pdOaewW9uVI?usp=drive_link)`
+    * **[Clique aqui para baixar os dados (3 arquivos, ~30 MB) do Google Drive](https://drive.google.com/drive/folders/1UexfcZOujLVO8-RzY0O__pdOaewW9uVI?usp=drive_link)**
     * Crie uma pasta `data/` na raiz deste projeto.
     * Coloque os 3 arquivos `.parquet` baixados dentro da pasta `data/`.
 
@@ -76,7 +76,7 @@ Estes são os repositórios completos, com múltiplos notebooks, onde o trabalho
 
 ## 4. Contato / Contrate-me
 
-* **Upwork:** [Seu Link do Upwork - adicionar quando estiver pronto]()
+* **Upwork:** [Upwork]()
 
 * **LinkedIn:** [https://www.linkedin.com/in/lucas-ker/](https://www.linkedin.com/in/lucas-ker/)
 
