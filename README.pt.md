@@ -20,7 +20,7 @@ Olá — bem-vindo ao meu portfólio. Abaixo você encontra entregáveis prontos
 
 **O que é:** Pipeline ponta-a-ponta (ingestão de dados & ETL, análise exploratória de dados, testes estatísticos, segmentação RFM & K-Means, protótipos preditivos usando Random Forest & Prophet).
 
-**Resultado chave:** Protótipo de modelo para sinalizar pedidos com alto risco de avaliação negativa — **recall de 68%** no conjunto de teste (validação cruzada k-fold). (Veja a pasta `notebooks/` para detalhes de avaliação e matrizes de confusão.)
+**Resultado chave:** Protótipo de modelo para sinalizar pedidos com alto risco de avaliação negativa — **recall de 68%** no conjunto de teste. (Veja a pasta `notebooks/` para detalhes de avaliação e matrizes de confusão.)
 
 ### Guia prático: Estatística para Data Science
 

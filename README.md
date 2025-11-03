@@ -4,14 +4,6 @@ Read this README in [Português 🇧🇷](README.pt.md).
 
 Hello — welcome to my portfolio. Below you’ll find concise, client-ready deliverables and links to full technical projects and notebooks. My work focuses on reproducible analytics pipelines and business-facing deliverables for e-commerce and experimental-data problems.
 
-## Executive deliverables
-
-* **reports/Olist_Executive_Summary.pdf** — 1-page executive summary of the Olist analysis (key insights & recommended actions).
-
-* **notebooks/Olist_Client_Highlights.ipynb** — short, clean notebook that shows the top 3 Olist insights in ~5 minutes.
-
-* **notebooks/Stats_for_Business_Client.ipynb** — practical guide: how to use statistical tests and basic inference to answer business questions.
-
 ## Deep-dive projects
 
 ### Full Project: E-commerce Analysis (Olist) — 5-notebook pipeline
@@ -20,7 +12,7 @@ Hello — welcome to my portfolio. Below you’ll find concise, client-ready del
 
 **What it is:** End-to-end pipeline (data ingestion & ETL, exploratory data analysis, statistical testing, RFM segmentation & K-Means, predictive prototypes using Random Forest & Prophet).
 
-**Key result:** Prototype model to flag orders with high risk of negative reviews — **68% recall** on the test set (k-fold CV). (See `notebooks/` for evaluation details and confusion matrices.)
+**Key result:** Prototype model to flag orders with high risk of negative reviews — **68% recall** on the test set. (See `notebooks/` for evaluation details and confusion matrices.)
 
 ### Practical Guide: Statistics for Data Science
 
