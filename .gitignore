@@ -1,12 +1,12 @@
-# Ignorar dados processados
+# Ignore data
 data/
 
-# Ignorar caches do Python
+# Ignore Python caches
 __pycache__/
 *.pyc
 
-# Ignorar caches do Jupyter
+# Ignore Jupyter caches
 .ipynb_checkpoints/
 
-# Ignorar arquivos de configuração do ambiente virtual
+# Ignore virtual environment configuration files
 .venv/

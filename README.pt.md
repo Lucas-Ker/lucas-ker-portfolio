@@ -2,52 +2,82 @@ Leia este README em [English 🇺🇸](README.md).
 
 # Portfólio de Data Science — Lucas Ker
 
-Olá — bem-vindo ao meu portfólio. Abaixo você encontra entregáveis prontos para clientes e links para projetos técnicos completos e notebooks. Meu trabalho foca em pipelines analíticos reprodutíveis e entregáveis orientados ao negócio para e-commerce e problemas de dados experimentais.
+Olá! Este é o meu "hub" de portfólio, com entregáveis prontos para clientes e links para os projetos técnicos completos. Meu trabalho foca em construir pipelines analíticos reprodutíveis que transformam dados brutos em ações de negócio.
 
-## Entregáveis executivos
+---
 
-* **reports/Olist_Executive_Summary.pdf** — resumo executivo de 1 página da análise Olist (insights principais e ações recomendadas).
+## 1. Entregáveis (Prontos para Revisão)
 
-* **notebooks/Olist_Client_Highlights.ipynb** — notebook curto e enxuto que mostra os 3 principais insights do Olist em ~5 minutos.
+Estes são os ativos polidos e concisos, prontos para análise.
 
-* **notebooks/Stats_for_Business_Client.ipynb** — guia prático: como usar testes estatísticos e inferência básica para responder perguntas de negócio.
+* **`reports/Olist_Executive_Summary.pdf`**
+    Um relatório executivo em PDF de 1 página, não-técnico, resumindo os principais achados e recomendações do projeto Olist.
 
-## Projetos de aprofundamento
+* **`notebooks/Olist_Client_Highlights.ipynb`**
+    Um Jupyter Notebook limpo que demonstra os 3 principais insights do projeto (Logística, RFM e Modelo Preditivo) em um formato executável de 2 minutos.
 
-### Projeto completo: Análise de E-commerce (Olist) — pipeline em 5 notebooks
+* **`notebooks/Stats_for_Business_Client.ipynb`**
+    Um guia prático demonstrando como usar testes estatísticos (Teste T, ANOVA, Qui-Quadrado) para responder perguntas comuns de negócio.
 
-**Repositório:** [https://github.com/Lucas-Ker/olist-data-analysis-project](https://github.com/Lucas-Ker/olist-data-analysis-project)
+---
 
-**O que é:** Pipeline ponta-a-ponta (ingestão de dados & ETL, análise exploratória de dados, testes estatísticos, segmentação RFM & K-Means, protótipos preditivos usando Random Forest & Prophet).
+## 2. Como Executar os Notebooks
 
-**Resultado chave:** Protótipo de modelo para sinalizar pedidos com alto risco de avaliação negativa — **recall de 68%** no conjunto de teste. (Veja a pasta `notebooks/` para detalhes de avaliação e matrizes de confusão.)
+Você pode executar os notebooks "Client-Ready" localmente.
 
-### Guia prático: Estatística para Data Science
+1.  **Clone este repositório:**
+    ```bash
+    git clone [https://github.com/Lucas-Ker/lucas-ker-portfolio.git](https://github.com/Lucas-Ker/lucas-ker-portfolio.git)
+    cd lucas-ker-portfolio
+    ```
 
-**Repositório:** [https://github.com/Lucas-Ker/stats_for_data_science](https://github.com/Lucas-Ker/stats_for_data_science)
+2.  **Crie e ative um ambiente virtual (venv):**
+    ```bash
+    python -m venv venv
+    source venv/bin/activate
+    ```
 
-**O que é:** Guia prático sobre conceitos fundamentais de estatística, construindo desde teoria básica até aplicação prática em Data Science e Machine Learning.
+3.  **Instale as bibliotecas necessárias:**
+    ```bash
+    pip install -r requirements.txt
+    ```
 
-## Entregáveis & formatos
+4.  **Baixe os Dados Processados:**
+    * O notebook do Olist depende de arquivos `.parquet` processados.
+    * **[Clique aqui para baixar os dados (3 arquivos, ~XX MB) do Google Drive]** `(https://drive.google.com/drive/folders/1UexfcZOujLVO8-RzY0O__pdOaewW9uVI?usp=drive_link)`
+    * Crie uma pasta `data/` na raiz deste projeto.
+    * Coloque os 3 arquivos `.parquet` baixados dentro da pasta `data/`.
 
-* Notebook (Jupyter) — documentado & reprodutível; inclui instruções para reproduzir os resultados (`requirements.txt`).
+5.  **Inicie o Jupyter:**
+    ```bash
+    jupyter lab
+    ```
+    Agora você pode abrir e executar os notebooks na pasta `notebooks/`.
 
-* Relatório em PDF — resumo executivo com visualizações prontas para stakeholders.
+---
 
-* Exportações de dados — CSVs agregados (quando permitido) e tabelas de features.
+## 3. Projetos Técnicos (Deep-Dive)
 
-## Como eu trabalho
+Estes são os repositórios completos, com múltiplos notebooks, onde o trabalho técnico foi realizado.
 
-* Pipelines reprodutíveis: notebooks claros + scripts modulares.
+### Projeto Completo: Análise de E-commerce (Olist)
+* **Repositório: [https://github.com/Lucas-Ker/olist-data-analysis-project](https://github.com/Lucas-Ker/olist-data-analysis-project)**
 
-* Foco no negócio: traduzir resultados técnicos em 2–3 recomendações acionáveis.
+* **O que é:** O pipeline completo de 5 notebooks, desde a ingestão de dados brutos e ETL até testes estatísticos, segmentação RFM/K-Means e modelagem preditiva (Random Forest & Prophet).
 
-* Comunicação: checkpoints regulares, entregáveis claros e documentação.
+* **Resultado Chave:** Um protótipo de modelo que sinaliza pedidos com alto risco de review negativo, atingindo **68% de recall** no conjunto de teste.
 
-## Contato / contrate-me
+### Guia Prático: Estatística para Data Science
+* **Repositório: [https://github.com/Lucas-Ker/stats_for_data_science](https://github.com/Lucas-Ker/stats_for_data_science)**
 
-* Upwork: [Your Upwork link]
+* **O que é:** Um guia prático sobre conceitos estatísticos, da teoria fundamental à aplicação prática em Python.
 
-* LinkedIn: [https://www.linkedin.com/in/lucas-ker/](https://www.linkedin.com/in/lucas-ker/)
+---
 
-* Email: [lucasker0107@gmail.com](mailto:lucasker0107@gmail.com)
+## 4. Contato / Contrate-me
+
+* **Upwork:** [Seu Link do Upwork - adicionar quando estiver pronto]()
+
+* **LinkedIn:** [https://www.linkedin.com/in/lucas-ker/](https://www.linkedin.com/in/lucas-ker/)
+
+* **Email:** [lucasker0107@gmail.com](mailto:lucasker0107@gmail.com)
