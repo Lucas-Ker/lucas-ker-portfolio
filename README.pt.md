@@ -1,27 +1,27 @@
 Leia este README em [English 🇺🇸](README.md).
 
-# Portfólio de Data Science — Lucas Ker
+# Portfólio: Data Science — Lucas Ker
 
-Olá! Este é o meu "hub" de portfólio, com entregáveis prontos para clientes e links para os projetos técnicos completos. Meu trabalho foca em construir pipelines analíticos reprodutíveis que transformam dados brutos em ações de negócio.
-
----
-
-## 1. Entregáveis (Prontos para Revisão)
-
-Estes são os ativos polidos e concisos, prontos para análise.
-
-* **`reports/Olist_Executive_Summary.pdf`**
-    Um relatório executivo em PDF de 1 página, não-técnico, resumindo os principais achados e recomendações do projeto Olist.
-
-* **`notebooks/Olist_Client_Highlights.ipynb`**
-    Um Jupyter Notebook limpo que demonstra os 3 principais insights do projeto (Logística, RFM e Modelo Preditivo) em um formato executável de 2 minutos.
-
-* **`notebooks/Stats_for_Business_Client.ipynb`**
-    Um guia prático demonstrando como usar testes estatísticos (Teste T, ANOVA, Qui-Quadrado) para responder perguntas comuns de negócio.
+Olá — bem-vindo ao meu portfólio. Eu construo pipelines analíticos reprodutíveis e ativos de Data Science prontos para produção que transformam dados ruidosos e em grande escala em resultados claros para negócios e pesquisa. Principais focos: EDA, feature engineering, modelagem preditiva e validação via Monte Carlo — com notebooks prontos para cliente, dashboards de KPI e resumos executivos de uma página.
 
 ---
 
-## 2. Como Executar os Notebooks
+## 1. Entregáveis prontos para cliente 📁
+
+Estes ativos concisos estão prontos para revisão por hiring managers e líderes técnicos.
+
+* **`reports/Olist_Executive_Summary.pdf`**  
+  Um resumo executivo de 1 página, não técnico, com as principais conclusões e recomendações priorizadas do projeto Olist.
+
+* **`notebooks/Olist_Client_Highlights.ipynb`**  
+  Notebook Jupyter executável que apresenta os 3 principais insights do projeto (Logística, segmentação RFM e protótipo de modelo preditivo) em um walkthrough de ~2 minutos.
+
+* **`notebooks/Stats_for_Business_Client.ipynb`**  
+  Guia prático demonstrando como usar testes estatísticos (T-test, ANOVA, Chi-Square), exemplos de Monte Carlo e como interpretar resultados para questões de negócio.
+
+---
+
+## 2. Como executar estes notebooks 📝
 
 Você pode executar os notebooks "Client-Ready" localmente.
 
@@ -56,7 +56,7 @@ Você pode executar os notebooks "Client-Ready" localmente.
 
 ---
 
-## 3. Projetos Técnicos (Deep-Dive)
+## 3. Projetos Técnicos (Deep-Dive) 🔬
 
 Estes são os repositórios completos, com múltiplos notebooks, onde o trabalho técnico foi realizado.
 
@@ -72,11 +72,35 @@ Estes são os repositórios completos, com múltiplos notebooks, onde o trabalho
 
 * **O que é:** Um guia prático sobre conceitos estatísticos, da teoria fundamental à aplicação prática em Python.
 
+
 ---
 
-## 4. Contato / Contrate-me
+## 4. Competências principais 🧠
 
-* **Upwork:** [Upwork]()
+Machine Learning · Python · SQL · Análise de Dados · Modelagem Preditiva · Feature Engineering · Modelagem Estatística · Simulação Monte Carlo · Power BI · scikit-learn · Pandas · NumPy
+
+
+---
+
+## 5. Estrutura do repositório 📁
+
+```
+
+/notebooks
+  ├─ Olist_Client_Highlights.ipynb
+  └─ Stats_for_Business_Client.ipynb
+/reports
+  └─ Olist_Executive_Summary.pdf
+requirements.txt
+README.md
+
+```
+
+---
+
+## 6. Contato / Contrate-me 📫
+
+* **Upwork:** [Upwork](https://www.upwork.com/freelancers/~01570b8ebb7c97dbad)
 
 * **LinkedIn:** [https://www.linkedin.com/in/lucas-ker/](https://www.linkedin.com/in/lucas-ker/)
 
