@@ -2,13 +2,13 @@ Read this README in [Português 🇧🇷](README.pt.md).
 
 # Data Science Portfolio — Lucas Ker
 
-Hello! This is my portfolio hub, showcasing client-ready deliverables and linking to full, in-depth technical projects. My work focuses on building reproducible analytics pipelines that turn raw data into clear business actions.
+Hello — welcome to my portfolio hub. I build reproducible analytics pipelines and production-ready data science assets that turn noisy, large-scale data into clear business and research outcomes. Work highlights: EDA, feature engineering, predictive modeling, and Monte Carlo validation — with client-ready notebooks, KPI dashboards and one-page executive summaries.
 
 ---
 
-## 1. Client-Ready Deliverables
+## 1. Client-Ready Deliverables 📁
 
-These are concise, polished assets ready for review.
+These concise assets are ready for review by hiring managers and technical leads.
 
 * **`reports/Olist_Executive_Summary.pdf`**
     A 1-page, non-technical PDF report summarizing the key findings and actionable recommendations from the Olist project.
@@ -21,7 +21,7 @@ These are concise, polished assets ready for review.
 
 ---
 
-## 2. How to Run These Notebooks
+## 2. How to Run These Notebooks 📝
 
 You can run the "Client-Ready" notebooks locally.
 
@@ -56,7 +56,7 @@ You can run the "Client-Ready" notebooks locally.
 
 ---
 
-## 3. Deep-Dive Technical Projects
+## 3. Deep-Dive Technical Projects 🔬
 
 These are the complete, multi-notebook repositories where the technical work was performed.
 
@@ -75,9 +75,28 @@ These are the complete, multi-notebook repositories where the technical work was
 
 ---
 
-## 4. Contact / Hire Me
+## 4. Core Skills (summary) 🧠
 
-* **Upwork:**[Upwork link]()
+Machine Learning · Python · SQL · Data Analysis · Predictive Modeling · Feature Engineering · Statistical Modeling · Monte Carlo Simulation · Power BI · scikit-learn · Pandas · NumPy
+
+---
+
+## 5. Repo structure 📁
+'
+/notebooks
+  ├─ Olist_Client_Highlights.ipynb
+  └─ Stats_for_Business_Client.ipynb
+/reports
+  └─ Olist_Executive_Summary.pdf
+requirements.txt
+README.md
+'
+
+---
+
+## 6. Contact / Hire Me 📫
+
+* **Upwork:**[Upwork link](https://www.upwork.com/freelancers/~01570b8ebb7c97dbad)
 
 * **LinkedIn:** [https://www.linkedin.com/in/lucas-ker/](https://www.linkedin.com/in/lucas-ker/)
 
