@@ -2,7 +2,7 @@ Leia este README em [English 🇺🇸](README.md).
 
 # Portfólio: Data Science — Lucas Ker
 
-Olá — bem-vindo ao meu portfólio. Eu construo pipelines analíticos reprodutíveis e ativos de Data Science prontos para produção que transformam dados ruidosos e em grande escala em resultados claros para negócios e pesquisa. Principais focos: EDA, feature engineering, modelagem preditiva e validação via Monte Carlo — com notebooks prontos para cliente, dashboards de KPI e resumos executivos de uma página.
+👋 Olá — bem-vindo ao meu portfólio. Eu construo pipelines analíticos reprodutíveis e ativos de Data Science prontos para produção que transformam dados ruidosos e em grande escala em resultados claros para negócios e pesquisa. Principais focos: EDA, feature engineering, modelagem preditiva e validação via Monte Carlo — com notebooks prontos para cliente, dashboards de KPI e resumos executivos de uma página.
 
 ---
 
