@@ -2,7 +2,7 @@ Read this README in [Português 🇧🇷](README.pt.md).
 
 # Data Science Portfolio — Lucas Ker
 
-👋 Hello — welcome to my portfolio hub. I build reproducible analytics pipelines and production-ready data science assets that turn noisy, large-scale data into clear business and research outcomes. Work highlights: EDA, feature engineering, predictive modeling, and Monte Carlo validation — with client-ready notebooks, KPI dashboards and one-page executive summaries.
+👋 Hello — welcome to my portfolio hub. I build reproducible analytics pipelines and production-ready data science assets that turn noisy, large-scale data into clear business and research outcomes. Work highlights: EDA, feature engineering and predictive modeling — with client-ready notebooks, KPI dashboards and one-page executive summaries.
 
 ---
 
@@ -77,7 +77,7 @@ These are the complete, multi-notebook repositories where the technical work was
 
 ## 4. Core Skills (summary) 🧠
 
-Machine Learning · Python · SQL · Data Analysis · Predictive Modeling · Feature Engineering · Statistical Modeling · Monte Carlo Simulation · Power BI · scikit-learn · Pandas · NumPy
+Machine Learning · Python · SQL · Data Analysis · Predictive Modeling · Feature Engineering · Statistical Modeling · Power BI · scikit-learn · Pandas · NumPy
 
 ---
 
