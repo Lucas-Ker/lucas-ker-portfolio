@@ -2,7 +2,7 @@ Read this README in [Português 🇧🇷](README.pt.md).
 
 # Data Science Portfolio — Lucas Ker
 
-Hello — welcome to my portfolio hub. I build reproducible analytics pipelines and production-ready data science assets that turn noisy, large-scale data into clear business and research outcomes. Work highlights: EDA, feature engineering, predictive modeling, and Monte Carlo validation — with client-ready notebooks, KPI dashboards and one-page executive summaries.
+👋 Hello — welcome to my portfolio hub. I build reproducible analytics pipelines and production-ready data science assets that turn noisy, large-scale data into clear business and research outcomes. Work highlights: EDA, feature engineering, predictive modeling, and Monte Carlo validation — with client-ready notebooks, KPI dashboards and one-page executive summaries.
 
 ---
 
