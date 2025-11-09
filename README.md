@@ -82,7 +82,9 @@ Machine Learning · Python · SQL · Data Analysis · Predictive Modeling · Fea
 ---
 
 ## 5. Repo structure 📁
-'
+
+```
+
 /notebooks
   ├─ Olist_Client_Highlights.ipynb
   └─ Stats_for_Business_Client.ipynb
@@ -91,6 +93,8 @@ Machine Learning · Python · SQL · Data Analysis · Predictive Modeling · Fea
 requirements.txt
 README.md
 '
+
+```
 
 ---
 
