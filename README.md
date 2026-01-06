@@ -77,7 +77,7 @@ These are the complete, multi-notebook repositories where the technical work was
 
 ## 4. Core Skills (summary) 🧠
 
-Machine Learning · Python · SQL · Data Analysis · Predictive Modeling · Feature Engineering · Statistical Modeling · Power BI · scikit-learn · Pandas · NumPy
+Machine Learning · Python · SQL · Data Analysis · Predictive Modeling · Feature Engineering · Statistical Modeling · Azure Databricks · Scikit-learn · Pandas · NumPy
 
 ---
 
